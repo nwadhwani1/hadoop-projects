@@ -1,0 +1,15 @@
+{
+  "type" : "record",
+  "name" : "Student",
+  "namespace" : "p1",
+  "fields" : [ {
+  "name" : "studentId",
+  "type" : "int"
+  }, {
+  "name" : "subjectName",
+  "type" : "string"
+  }, {
+  "name" : "studentMarks",
+  "type" : "float"
+  } ]
+}
